@@ -1,8 +1,5 @@
 # Hi, I'm Danny!  
-Cybersecurity Professional</a>,  
-Network Specialist</a>,  
-Ethical Hacker</a>
-
+Passionate Cybersecurity Professional</a>  
 ---
 
 ## 👨‍💻 Cybersecurity & IT Projects:
