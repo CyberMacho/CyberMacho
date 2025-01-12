@@ -9,7 +9,7 @@ Ethical Hacker</a>
 
 - **Fortifying the Cloud: Building a SOC + Honeynet in Azure with Live Traffic Analysis**  
   - This project focuses on creating a Security Operations Center (SOC) combined with a honeynet in Microsoft Azure. The aim is to monitor and analyze live traffic, detect malicious activity, and measure the effectiveness of applied security controls. By comparing metrics collected from an insecure and hardened environment, this project demonstrates the critical importance of robust cybersecurity practices..  
-  - [Learn More](https://github.com/DanielCyberHub/HomeLab-Security)
+  - [Learn More](https://github.com/CyberMacho/SOCinAction)
 
 - **Vulnerability Assessment Reports**  
   - Comprehensive vulnerability scans and analysis using Nessus and Nmap, producing detailed remediation strategies.  
