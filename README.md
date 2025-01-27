@@ -13,12 +13,12 @@ Passionate Cybersecurity Professional</a>
 ## 📜 Certifications & Accomplishments:
 
 - **CompTIA Certifications**  
-  - A+, CySA+, PenTest+, Linux Essentials
-- **ISC2 SSCP Associate**
-- **Cisco CCNA**  
-- **ITIL4 Foundation**  
-- Passed **Hack the Box** and **TryHackMe** advanced labs.  
-- Upcoming: CISSP and more.
+  - A+, CySA+, PenTest+
+  - **Linux Essentials**
+  - **ISC2 SSCP Associate**
+  - **Cisco CCNA**  
+  - **ITIL4 Foundation**   
+  - Upcoming: CISSP and more.
 
 ---
 
