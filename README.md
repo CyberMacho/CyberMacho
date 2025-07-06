@@ -50,6 +50,10 @@ With a strong foundation in Information Technology and a growing passion for cyb
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Autopsy-005478?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-SecurityOnion-005478?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-SOAR-FF6F00?&style=for-the-badge&logo=elasticstack&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-SIEM-800080?&style=for-the-badge&logo=security&logoColor=white" />
 </div>
 
 ### 🧰 General & Scripting
