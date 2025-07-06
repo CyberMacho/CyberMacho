@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-BSc in Cybersecurity & Information Assurance | Industry-Certified | Driven by Technology & Problem Solving
+BSc in Cybersecurity & Information Assurance | Analytical & Tech-Driven
 
 ## Objective
 With a strong foundation in Information Technology and a growing passion for cybersecurity, I am actively pursuing a role as a Tier 1 SOC Analyst. I’m eager to contribute to security operations while continuously expanding my knowledge in threat detection, incident response, and cybersecurity defense.
@@ -12,13 +12,13 @@ With a strong foundation in Information Technology and a growing passion for cyb
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Static Malware analysis          | <a href="https://github.com/CyberMacho/Malware-Analysis-Lab">Malware Analysis Lab</a>|
-| Dynamic Malware Analysis         | <a href="https://github.com/CyberMacho/Malware-Analysis-Lab">Malware Analysis Lab</a>|
-| Vulnerability Scanning         | <a href="https://github.com/CyberMacho/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>|
-| Vulnerability Remediation      | <a href="https://github.com/CyberMacho/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>|
-|Active Directory, Splunk and SIEM configuration, Automation  | <a href="https://github.com/CyberMacho/Active-Directory-Project/blob/main/README.md">Active Directory Lab</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|Active Directory, Splunk, SIEM, Automation | <a href="https://github.com/CyberMacho/Active-Directory-Project/blob/main/README.md">Active Directory Lab</a>|
+|Cloud architecture deployment, SIEM, log analysis, threat detection and alerting | <a href="https://github.com/CyberMacho/SOCinAction">Building a SOC + Honeynet in Azure</a>|
+| Static Malware analysis      | <a href="https://github.com/CyberMacho/Malware-Analysis-Lab">Malware Analysis Lab</a>|
+| Static Malware analysis      | <a href="https://github.com/CyberMacho/Malware-Analysis-Lab">Malware Analysis Lab</a>|
+| Dynamic Malware Analysis     | <a href="https://github.com/CyberMacho/Malware-Analysis-Lab">Malware Analysis Lab</a>|
+| Vulnerability Scanning       | <a href="https://github.com/CyberMacho/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>|
+| Vulnerability Remediation    | <a href="https://github.com/CyberMacho/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>|
 
 ## 🛠️ Tools & Technologies
 
@@ -86,5 +86,3 @@ With a strong foundation in Information Technology and a growing passion for cyb
 - <a href="https://github.com/CyberMacho/Malware-Analysis-Lab">Malware Analysis Lab</a>
 - <a href="https://github.com/CyberMacho/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>
 - <a href="https://github.com/CyberMacho/SOCinAction">Building a SOC + Honeynet in Azure</a>
-- IDS/Zeek Network Monitoring Lab
-- Wazuh to SOAR Implementation
