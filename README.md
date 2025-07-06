@@ -16,6 +16,7 @@ With a strong foundation in Information Technology and a growing passion for cyb
 | Dynamic Malware Analysis         | <a href="https://github.com/CyberMacho/Malware-Analysis-Lab">Malware Analysis Lab</a>|
 | Vulnerability Scanning         | <a href="https://github.com/CyberMacho/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>|
 | Vulnerability Remediation      | <a href="https://github.com/CyberMacho/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>|
+|Active Directory, Splunk and SIEM configuration, Automation  | <a href="https://github.com/CyberMacho/Active-Directory-Project/blob/main/README.md">Active Directory Lab</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -81,6 +82,7 @@ With a strong foundation in Information Technology and a growing passion for cyb
 
 
 ## Projects
+- <a href="https://github.com/CyberMacho/Active-Directory-Project/blob/main/README.md">Active Directory Project Lab</a>
 - <a href="https://github.com/CyberMacho/Malware-Analysis-Lab">Malware Analysis Lab</a>
 - <a href="https://github.com/CyberMacho/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>
 - <a href="https://github.com/CyberMacho/SOCinAction">Building a SOC + Honeynet in Azure</a>
